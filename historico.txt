@@ -1,0 +1,57 @@
+Comprou para o estoque: gd         ga         fa         -*R$ 50,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 50,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 50,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 50,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 50,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 100,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 100,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 100,00 2019-06-29
+Vendeu: gd         ga         fa         +*R$ 35,00 2019-06-29
+Vendeu: gd         ga         fa         +*R$ 35,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 25,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 25,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 25,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 35,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 35,00 2019-06-29
+Vendeu do estoque:      gd         ga         fa         +*R$ 35,00 2019-06-29
+Comprou para o estoque: gd         ga         fa         -*R$ 65,55 2019-05-01
+Comprou para o estoque: gd         ga         fa         -*R$ 65,55 2019-05-01
+Comprou para o estoque: gd         ga         fa         -*R$ 65,55 2019-05-01
+Vendeu do estoque:      gd         ga         fa         +*R$ 0,00 2020-02-23
+Comprou para o estoque: gd         ga         vermelho   -*R$ 0,00 2020-02-23

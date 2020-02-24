@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="telaEstoque" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controlador">
+   <children>
+      <ImageView fitHeight="592.0" fitWidth="629.0" layoutX="1.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/Aphrodite.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="btnAdicionarAoEstoque" layoutX="445.0" layoutY="38.0" mnemonicParsing="false" onAction="#aBtAdicionarAoEstoque" prefHeight="51.0" prefWidth="130.0" text="Adicionar ao estoque" />
+      <Button fx:id="btnVoltar" layoutX="39.0" layoutY="38.0" mnemonicParsing="false" onAction="#aBtVoltar" prefHeight="51.0" prefWidth="84.0" text="Voltar" />
+      <ScrollPane layoutX="39.0" layoutY="107.0">
+         <content>
+            <ListView fx:id="listEstoque" prefHeight="479.0" prefWidth="534.0" />
+         </content>
+      </ScrollPane>
+      <Button fx:id="btnAdicionarTipo" layoutX="307.0" layoutY="38.0" mnemonicParsing="false" onAction="#aBtAdicionarTipo" prefHeight="51.0" prefWidth="91.0" text="Adicionar tipo" />
+      <Button fx:id="btnAtualizarEstoque" layoutX="170.0" layoutY="38.0" mnemonicParsing="false" onAction="#aBtAtualizarEstoque" prefHeight="51.0" prefWidth="91.0" text="Atualizar" />
+   </children>
+</AnchorPane>
